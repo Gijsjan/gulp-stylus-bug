@@ -1,6 +1,6 @@
 {
   "name": "gulp-stylus-test",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "author": {
     "name": "Gijsjan Brouwer",
     "email": "gijsjan.brouwer@huygens.knaw.nl"
@@ -8,7 +8,7 @@
   "main": "",
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/Gijsjan/gulp-stylus-bug"
   },
   "devDependencies": {
     "gulp": "^3.6.2",
